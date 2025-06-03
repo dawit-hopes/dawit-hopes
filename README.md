@@ -2,13 +2,22 @@
 
 Welcome to my AI-focused GitHub space!
 
-🎯 I'm currently diving deep into **Data Science** and **Machine Learning**, building a strong foundation in:
+🎯 I'm currently diving deep into **Data Science** and **Machine Learning**, building a solid foundation in:
 - 🐍 Python (Pandas, NumPy, Scikit-learn)
-- 🧠 ML fundamentals & model building
+- 🧠 Machine Learning fundamentals & model building
 - 🗃️ SQL for data analysis
 
-🔬 This account is dedicated to sharing my learning journey through hands-on projects, notebooks, and experiments in AI and data science.
+🔬 This account is dedicated to sharing my learning journey through hands-on projects, Jupyter notebooks, and real-world experiments in AI and data science.
 
-Stay tuned — more coming soon 🚀
+🚀 I'm passionate about:
+- Solving real-world problems with data
+- Building intelligent systems
+- Continuous learning and open collaboration
 
-📫 Let's connect: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dawit-abraham-b6b465216/ ) | [Email](mailto:dawit.abrahame@gmail.com)
+📌 More projects coming soon — stay tuned!
+
+---
+
+📫 Let's connect:
+- [LinkedIn](https://www.linkedin.com/in/dawit-abraham-b6b465216/)
+- 📧 [dawit.abrahame@gmail.com](mailto:dawit.abrahame@gmail.com)
