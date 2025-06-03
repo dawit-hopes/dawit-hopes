@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Dawit Abraham
 
-<!--
-**dawit-hopes/dawit-hopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my AI-focused GitHub space!
 
-Here are some ideas to get you started:
+🎯 I'm currently diving deep into **Data Science** and **Machine Learning**, building a strong foundation in:
+- 🐍 Python (Pandas, NumPy, Scikit-learn)
+- 🧠 ML fundamentals & model building
+- 🗃️ SQL for data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 This account is dedicated to sharing my learning journey through hands-on projects, notebooks, and experiments in AI and data science.
+
+Stay tuned — more coming soon 🚀
+
+📫 Let's connect: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dawit-abraham-b6b465216/)) | [Email](mailto:dawit.abrahame@gmail.com)
