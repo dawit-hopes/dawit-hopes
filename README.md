@@ -11,4 +11,4 @@ Welcome to my AI-focused GitHub space!
 
 Stay tuned — more coming soon 🚀
 
-📫 Let's connect: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dawit-abraham-b6b465216/)) | [Email](mailto:dawit.abrahame@gmail.com)
+📫 Let's connect: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dawit-abraham-b6b465216/ ) | [Email](mailto:dawit.abrahame@gmail.com)
