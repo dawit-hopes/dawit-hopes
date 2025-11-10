@@ -36,7 +36,6 @@ I build **robust, scalable systems** and **intelligent data-driven solutions**:
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawit-abraham-b6b465216/)  
-📧 Email: dawit.abrahame@gmail.com  
 
 ---
 
